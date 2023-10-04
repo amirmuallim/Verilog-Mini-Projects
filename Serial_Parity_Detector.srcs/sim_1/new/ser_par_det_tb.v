@@ -1,5 +1,5 @@
 `timescale 1ns / 1ps
-
+// This Module outputs the parity of serial inputs
 
 
 module ser_par_det_tb;
